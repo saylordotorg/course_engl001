@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Using The Work Of Others** <span id="4"></span> 
 *A well-placed quote can make all the difference when you are making an
 argument. A quote can convince your reader that other respected,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Academic Writing** <span id="2"></span> 
 *As a student at the university level, you will need to know how to
 write an effective academic essay. At its core, any academic essay is an

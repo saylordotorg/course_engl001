@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's “ENGL001 Final Exam”**
     Link: The Saylor Foundation's ["ENGL001 Final

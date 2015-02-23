@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Redefining What It Means To Write** <span id="1"></span> 
 *We begin this course by refining how we think about writing. Let’s
 begin by acknowledging that writing is a difficult, complex process. It

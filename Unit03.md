@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Focus, Cohesion, and Style** <span id="3"></span> 
 *Style refers to the way in which you write a sentence and assemble it
 within a sequence of sentences. A sound writing style is not a luxury;

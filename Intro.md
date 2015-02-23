@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL001: English Composition I"
+course_description: "An introductory course on composition, developing the ability to write clear, grammatically-sound expository and persuasive prose pieces."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL001: English Composition I"
 ----------------------------------------------------
 
